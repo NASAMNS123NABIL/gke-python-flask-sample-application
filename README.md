@@ -1,4 +1,4 @@
-# Python Flask Dockerized Application 2nd class #
+# Python Flask Dockerized Application tutorial #
 
 Build the image using the following command
 
