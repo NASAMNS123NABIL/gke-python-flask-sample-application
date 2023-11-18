@@ -7,3 +7,5 @@ Pushing a new change to master branch.
 Creating a Pull Request.
 Committing for PR and testing it.
 Testing PR again.
+Committing for PR.
+
